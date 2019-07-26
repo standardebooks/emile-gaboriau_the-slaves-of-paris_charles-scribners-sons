@@ -37,8 +37,12 @@
 		<meta property="term" refines="#subject-2">sh2008109262</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
+		<meta property="se:collection">Monsieur Lecoq</meta>
+		<dc:description id="description">A group of blackmailers play a long game on several families; will Lecoq be able to catch them?</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;In Gaboriau’s last Lecoq novel, Lecoq doesn’t make an appearance until the last few chapters of the book. In fact, it’s not clear who the protagonist(s) is/are until almost halfway through. They’re not missed, though, because the antagonists are a group of blackmailers of exhaustive ingenuity and knowledge, and piecing together the game they’re playing with several noblemen and women occupies all of one’s facilities for most of the book.&lt;/p&gt;
+			&lt;p&gt;Young love, old love, forbidden love, lost love, along with a couple of missing individuals: what is the blackmailer’s endgame? Will Lecoq be able to figure it out in time? Called “French sensational” in their day, the last appearance of Lecoq is still sensational today.&lt;/p&gt;
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2451</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/2736</dc:source>
@@ -48,12 +52,12 @@
 		<dc:creator id="author">Emile Gaboriau</dc:creator>
 		<meta property="file-as" refines="#author">Gaboriau, Emile</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Emile_Gaboriau</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">AUTHOR_NACOAF_URL</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no98072052</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Camille Pissarro</dc:contributor>
+		<meta property="file-as" refines="#artist">Pissarro, Camille</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Camille_Pissarro</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50010995</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Dagny</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Dagny</meta>
@@ -81,7 +85,9 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/chapter-1-1.xhtml" id="chapter-1-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1-2.xhtml" id="chapter-1-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1-3.xhtml" id="chapter-1-3.xhtml" media-type="application/xhtml+xml"/>
