@@ -6,11 +6,11 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-blockquote.card{
+#chapter-1-12 blockquote{
 	text-align: center;
 }
 
-blockquote.card p:last-child{
+#chapter-1-12 blockquote p:last-child{
 	text-align: right;
 }
 
