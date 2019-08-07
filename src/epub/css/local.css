@@ -15,9 +15,12 @@ span[epub|type~="subtitle"]{
 	text-align: right;
 }
 
-p.articles{
-	text-align: center;
+#chapater-2-29 blockquote header p{
 	text-indent: 0
+}
+
+#chapter-2-29 blockquote header p:first-child{
+	font-variant: small-caps;
 }
 
 [epub|type~="z3998:salutation"]{
@@ -29,6 +32,7 @@ p.articles{
 }
 
 footer{
+	margin-top: 1em;
 	text-align: right;
 }
 
