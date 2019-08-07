@@ -46,6 +46,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2451</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/2736</dc:source>
+		<dc:source>https://books.google.com/books?id=QHgCu1AJCEQC</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/emile-gaboriau_the-slaves-of-paris</meta>
