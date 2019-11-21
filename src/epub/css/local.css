@@ -16,7 +16,7 @@ span[epub|type~="subtitle"]{
 }
 
 #chapter-2-29 blockquote header p{
-	text-indent: 0
+	text-indent: 0;
 }
 
 #chapter-2-29 blockquote header p:first-child{
