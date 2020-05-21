@@ -39,6 +39,7 @@
 		<meta property="se:subject">Mystery</meta>
 		<meta property="belongs-to-collection" id="collection-1">Monsieur Lecoq</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">4</meta>
 		<dc:description id="description">A group of blackmailers play a long game on several families; will Lecoq be able to catch them?</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In this, &lt;a href="https://standardebooks.org/ebooks/emile-gaboriau"&gt;Gaboriau’s&lt;/a&gt; last &lt;a href="https://standardebooks.org/collections/monsieur-lecoq"&gt;Lecoq&lt;/a&gt; novel, Lecoq doesn’t make an appearance until the last few chapters of the book. In fact, it’s not clear who the protagonist(s) is/are until almost halfway through. They’re not missed, though, because the antagonists are a group of blackmailers of exhaustive ingenuity and knowledge, and piecing together the game they’re playing with several noblemen and women occupies all of one’s faculties for most of the book.&lt;/p&gt;
