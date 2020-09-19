@@ -49,7 +49,3 @@ footer{
 [epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
-
-[epub|type~="z3998:song"] + p{
-	text-indent: 0;
-}
