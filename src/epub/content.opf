@@ -57,8 +57,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Émile_Gaboriau</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no98072052</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">Charles Scribner's Sons</dc:contributor>
-		<meta property="file-as" refines="#translator">Charles Scribner's Sons</meta>
+		<dc:contributor id="translator">Charles Scribner’s Sons</dc:contributor>
+		<meta property="file-as" refines="#translator">Charles Scribner’s Sons</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Charles_Scribner%27s_Sons</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n81050810</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
