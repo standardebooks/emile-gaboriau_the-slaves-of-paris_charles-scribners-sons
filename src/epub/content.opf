@@ -60,7 +60,6 @@
 		<meta property="file-as" refines="#translator">Charles Scribner’s Sons</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Charles_Scribner%27s_Sons</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n81050810</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Camille Pissarro</dc:contributor>
 		<meta property="file-as" refines="#artist">Pissarro, Camille</meta>
