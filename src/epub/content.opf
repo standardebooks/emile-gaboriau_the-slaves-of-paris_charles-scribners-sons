@@ -46,9 +46,16 @@
 			&lt;p&gt;Young love, old love, forbidden love, lost love, along with a couple of missing individuals: what is the blackmailers’ endgame? Will Lecoq be able to figure it out in time? Called “French sensational” in its day, Lecoq’s last case is still sensational today.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
+		<!-- TRANSCRIPTIONS -->
+		<!-- Volume 1, Caught in the Net -->
 		<dc:source>https://www.gutenberg.org/ebooks/2451</dc:source>
+		<!-- Volume 2, The Champdoce Mystery -->
 		<dc:source>https://www.gutenberg.org/ebooks/2736</dc:source>
+		<!-- SCANS -->
+		<!-- Volume 1, Caught in the Net -->
 		<dc:source>https://books.google.com/books?id=QHgCu1AJCEQC</dc:source>
+		<!-- Volume 2, The Champdoce Mystery -->
+		<dc:source>https://books.google.com/books?id=iPOPh_68aEIC</dc:source>
 		<meta property="se:word-count">205327</meta>
 		<meta property="se:reading-ease.flesch">70.33</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/emile-gaboriau_the-slaves-of-paris_charles-scribners-sons</meta>
